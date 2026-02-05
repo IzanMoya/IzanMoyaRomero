@@ -25,10 +25,10 @@
 I am a **DAM graduate** currently pursuing a **Master's in Big Data & AI**[cite: 25, 45]. My passion lies at the intersection of robust Software Engineering and the predictive power of Artificial Intelligence.
 
 * 🔭 I’m currently working on a **Geolocation & Time Tracking App** using Spring Boot and React Native.
-* 🧠 I’m learning about **LLM architectures**, building models from scratch, and exploring **Credit Risk Prediction** models[cite: 40, 41].
-* 💼 I have experience developing enterprise software with **Java & Oracle SQL** at *EVHa (Generalitat Valenciana)*[cite: 30, 31].
+* 🧠 I’m learning about **LLM architectures**, building models from scratch, and exploring **Credit Risk Prediction** models
+* 💼 I have experience developing enterprise software with **Java & Oracle SQL** at *EVHa (Generalitat Valenciana)*.
 * 🌱 I’m active on **Kaggle** and exploring new models on **Hugging Face**.
-* [cite_start]⚡ Fun fact: When I'm not coding, I'm climbing rocks, playing basketball, or reading philosophy[cite: 50, 52].
+* ⚡ Fun fact: When I'm not coding, I'm climbing rocks, playing basketball, or reading philosophy.
 
 ---
 
@@ -62,16 +62,16 @@ I am a **DAM graduate** currently pursuing a **Master's in Big Data & AI**[cite:
 ### 🚀 Featured Projects
 
 #### 📍 Geolocation & Time Tracking App (TFG)
-[cite_start]*A full-stack solution for real-time workforce management.* [cite: 35, 36]
+[cite_start]*A full-stack solution for real-time workforce management.* 
 * **Tech:** React Native (Expo), Spring Boot, Hibernate, MySQL, Docker.
 * **Deployment:** Containers on Render & Railway.
 
 #### 🤖 Tax Fraud Detection System (TFM)
-[cite_start]*Machine Learning predictive system to identify anomalous patterns in fiscal data.* [cite: 40]
+[cite_start]*Machine Learning predictive system to identify anomalous patterns in fiscal data.* 
 * **Tech:** Python, Scikit-learn, Pandas, Classification Models.
 
 #### 🧠 Transformer LLM "From Scratch"
-[cite_start]*Implementation of a language model to understand the Attention Mechanism and NLP fundamentals.* [cite: 41]
+[cite_start]*Implementation of a language model to understand the Attention Mechanism and NLP fundamentals.* 
 * **Focus:** Multi-head attention, Tokenization, PyTorch.
 
 ---
