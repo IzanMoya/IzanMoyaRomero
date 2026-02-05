@@ -25,8 +25,8 @@
 I am a **DAM graduate** currently pursuing a **Master's in Big Data & AI**[cite: 25, 45]. My passion lies at the intersection of robust Software Engineering and the predictive power of Artificial Intelligence.
 
 * 🔭 I’m currently working on a **Geolocation & Time Tracking App** using Spring Boot and React Native.
-* [cite_start]🧠 I’m learning about **LLM architectures**, building models from scratch, and exploring **Credit Risk Prediction** models[cite: 40, 41].
-* [cite_start]💼 I have experience developing enterprise software with **Java & Oracle SQL** at *EVHa (Generalitat Valenciana)*[cite: 30, 31].
+* 🧠 I’m learning about **LLM architectures**, building models from scratch, and exploring **Credit Risk Prediction** models[cite: 40, 41].
+* 💼 I have experience developing enterprise software with **Java & Oracle SQL** at *EVHa (Generalitat Valenciana)*[cite: 30, 31].
 * 🌱 I’m active on **Kaggle** and exploring new models on **Hugging Face**.
 * [cite_start]⚡ Fun fact: When I'm not coding, I'm climbing rocks, playing basketball, or reading philosophy[cite: 50, 52].
 
