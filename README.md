@@ -1,6 +1,6 @@
 # IzanMoyaRomero
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hi%20there,%20I'm%20Izan%20Moya!%20👋&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=%20I'm%20Izan%20Moya!%20👋&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
@@ -8,13 +8,13 @@
   <p>Based in Valencia, Spain 🇪🇸</p>
 
   <a href="https://www.linkedin.com/in/izan-moya-romero">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/[LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/izan-moya-romero-b06769328/)" />
   </a>
   <a href="mailto:izanmoya.13@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/[Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://mail.google.com/mail/u/1/#inbox)" />
   </a>
   <a href="https://huggingface.co/IzanMoya">
-    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+    <img src="https://img.shields.io/badge/[Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black](https://huggingface.co/IzanMoya)" />
   </a>
 </div>
 
@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a **DAM graduate** currently pursuing a **Master's in Big Data & AI**[cite: 25, 45]. My passion lies at the intersection of robust Software Engineering and the predictive power of Artificial Intelligence.
+Valencia - I am a **DAM graduate** currently pursuing a **Master's in Big Data & AI**[cite: 25, 45]. My passion lies at the intersection of robust Software Engineering and the predictive power of Artificial Intelligence.
 
 * 🔭 I’m currently working on a **Geolocation & Time Tracking App** using Spring Boot and React Native.
 * [cite_start]🧠 I’m learning about **LLM architectures**, building models from scratch, and exploring **Credit Risk Prediction** models[cite: 40, 41].
