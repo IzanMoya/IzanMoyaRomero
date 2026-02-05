@@ -1,4 +1,4 @@
-# IzanMoyaRomero
+# IzanMoya
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=%20I'm%20Izan%20Moya!%20👋&fontSize=70&fontColor=ffffff&fontAlign=50&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
